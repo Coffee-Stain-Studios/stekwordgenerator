@@ -5,8 +5,8 @@ cold
 dull
 fake
 felted
-frozen
 fractured
+frozen
 gross
 hard
 hot
@@ -19,6 +19,7 @@ shiny
 smelly
 smooth
 soft
+squishy
 sticky
 stubbly
 ugly
