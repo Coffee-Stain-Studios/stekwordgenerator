@@ -6,7 +6,7 @@ A password generator creating passwords that are pronouncable and rememberable. 
 Number of passwords to generate
 #>
 [CmdletBinding()]
-param([Int]$Count = 5)
+param([Int]$Count = 1)
 
 function capitaliseFirst {
 	param( [String]$String )
