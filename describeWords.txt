@@ -14,9 +14,11 @@ dry
 dull
 dumb
 educated
+eggy
 ejecting
 fake
 felted
+flakey
 foolish
 fractured
 frozen
@@ -51,8 +53,10 @@ red
 sacred
 scary
 scented
+shelled
 shiny
 shooting
+shot
 silver
 small
 smart
@@ -67,6 +71,7 @@ sticky
 stubbly
 stupid
 teal
+teared
 tiny
 toothless
 ugly

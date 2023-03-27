@@ -22,7 +22,10 @@ doors
 drives
 eagles
 ears
+eggsacks
+eggshells
 eyes
+fences
 filaments
 floors
 fractures
@@ -36,6 +39,10 @@ hellspawns
 hugs
 interns
 intestines
+jesters
+jokers
+kittens
+koalas
 lightbulbs
 lizarddoggos
 locks
@@ -60,6 +67,7 @@ pilgors
 pliers
 plums
 potatoes
+processors
 producers
 programmers
 pumpkins
@@ -85,4 +93,5 @@ wagons
 whales
 xylophones
 yankees
+youtubers
 zombies

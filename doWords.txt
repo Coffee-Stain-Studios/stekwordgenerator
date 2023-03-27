@@ -2,8 +2,10 @@ abandon
 ask
 bend
 bite
+break
 buy
 caress
+claim
 coat
 cut
 defeat
@@ -40,6 +42,7 @@ loose
 losen
 love
 lump
+massage
 moon
 nick
 open
@@ -72,6 +75,7 @@ tip
 touch
 transform
 turn
+type
 unzip
 value
 woo
