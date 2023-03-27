@@ -25,7 +25,7 @@ $highestNumber = 999
 Write-Verbose -Message "Calculating the maximum number of possible passwords"
 $maxCount = $doWords.Count * $describeWords.Count * $actorWords.Count * ( $highestNumber - $lowestNumber )
 
-Write-Verbose -Message "Maximum available stekwords: $maxCount"
+Write-Verbose -Message "Maximum available stekwords: $('{0:N0}' -f $maxCount)"
 
 if ( $Count -gt $maxCount ) {
 	Write-Error "Count to high; highest allowed number is: $maxCount"
