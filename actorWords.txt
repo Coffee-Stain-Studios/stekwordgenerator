@@ -6,6 +6,7 @@ books
 boomerangs
 boxes
 brushes
+bugs
 calves
 canvases
 cards
@@ -37,6 +38,7 @@ handles
 headsets
 hellspawns
 hugs
+insects
 interns
 intestines
 jesters
@@ -91,6 +93,7 @@ uniforms
 videos
 wagons
 whales
+workers
 xylophones
 yankees
 youtubers
